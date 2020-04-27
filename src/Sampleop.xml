@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<row>
+<CardNumber>34011081888500</CardNumber>
+<CardType>Invalid</CardType>
+<Error>Invalid Card Number</Error>
+</row>
+<row>
+<CardNumber>4011202464746303</CardNumber>
+<CardType>Visa</CardType>
+<Error>None</Error>
+</row>
+</root>
